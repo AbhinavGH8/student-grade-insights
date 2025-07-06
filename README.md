@@ -7,7 +7,7 @@ This project explores how various personal, social, and academic factors influen
 ## 📊 Dataset
 
 - **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
-- **File used**: `student-mat.csv` (Portuguese language course data)
+- **File used**: (https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) <---- save this as student-mat.csv at root directory
 - **Attributes**: 33 features including demographics, school support, study time, failures, internet access, and alcohol consumption
 
 ---
